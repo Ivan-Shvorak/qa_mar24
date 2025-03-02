@@ -1,2 +1,2 @@
-# qa_mar24
-This is home of qa_mar24 lesson work
+# GIT Lesson
+This is home of git lesson work
